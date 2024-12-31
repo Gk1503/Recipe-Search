@@ -1,0 +1,119 @@
+#Lpmain{
+    border: 1px solid black;
+    height: auto;
+    width: auto;
+    display: flex;
+    
+}
+
+#Lpimg{
+    border: 1px solid black;
+    height: 720px;
+    width: 800px;
+}
+#Lpform{
+    border: 1px solid black; 
+    height: 720px;
+    width: 800px;
+}
+#lplogo{
+    height: 720px;
+    width: 800px;
+}
+#cplplogo{
+    height: 210px;
+    width: 260px;
+    margin-left: 220px;
+}
+#l1{
+    border: 1px solid black;
+    width: 250px;
+}
+#l2{
+    border: 1px solid black;
+    width: 250px;
+   
+}
+#lm{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    font-size: 30px;
+    margin-left: 25px;
+}
+#lpdescription{
+    margin-left: 220px;
+}
+#joinnow{
+    color: #0000FF;
+    cursor: pointer;
+}
+#joinnow:hover{
+    color: #0000FF;
+    cursor: pointer;
+    text-decoration: underline;
+}
+#inputs{
+    margin-left: 150px;
+    color:  lightseagreen;
+    font-weight: 900;
+    
+}
+#inputs input{
+    width: 300px;
+    
+}
+#log1{
+    border: 1px solid black;
+    width: 250px;
+}
+#log2{
+    border: 1px solid black;
+    width: 250px;
+   
+}
+#log{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    font-size: 30px;
+    margin-left: 25px;
+}
+.logopt{
+    border: 1px solid black;
+    height: 35px;
+    width: 280px;
+    text-align: center;
+    margin-top: 15px;
+    font-size: larger;
+}
+#logwithemail:hover{
+    cursor: pointer;
+    background-color: black;
+    color: white;
+}
+#logwithgoogle:hover{
+    cursor: pointer;
+    background-color:#318CE7 ;
+    color: white;
+}
+#logwithfacebook:hover{
+    cursor: pointer;
+    background-color: #0000FF;
+    color: white;
+}
+#logoptions{
+    margin-left: 200px;
+}
+#logbtn{
+    width: 150px;
+    background-color:#00A693 ;
+    color: white;
+    margin-left: 250px;
+    margin-top: 10px;
+    border-radius: 5%;
+    border: 1px solid black;
+}
+#logbtn:hover{
+    background-color: #0000FF;
+}

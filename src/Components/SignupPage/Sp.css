@@ -1,0 +1,147 @@
+#SpMain{
+    /* border: 1px solid black; */
+    height: auto;
+    width: auto;
+    display: flex;
+}
+
+#Spimg{
+    /* border: 1px solid black; */
+    height: 720px;
+    width: 800px;
+}
+#Spform{
+    /* border: 1px solid black; */
+    height: 720px;
+    width: 800px;
+}
+#spfoodimg{
+    height: 720px;
+    width: 800px;
+}
+#spcllogo{
+    height: 120px;
+    width: 220px;
+    margin-left:260px;
+    
+}
+#r1{
+    border: 1px solid black;
+    width: 250px;
+}
+#r2{
+    border: 1px solid black;
+    width: 250px;
+   
+}
+#rm{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    font-size: 30px;
+    margin-left: 25px;
+}
+.form{
+   padding-left: 15%; 
+   color: lightseagreen;  
+   font-weight: 900;
+}
+.form input {
+    width: 300px;
+    border: 1px solid black;
+}
+#sublabel{
+    color: green;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: 500;
+}
+#sublabel:hover{
+    color: green;
+    text-decoration: underline;
+}
+#mlabel{
+    font-size: 15px;
+    font-weight: 500;
+    margin-left: -100px;
+    margin-top: 20px;
+    color:black;
+}
+#cbox{
+    margin-left: -80px;
+}
+#rmm{
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+    font-weight: 500;
+    color: black;
+    gap: 1%;
+    margin-left: -80px;
+
+}
+#r11{
+    border: 1px solid black;
+    width: 250px;
+}
+#r22{
+    border: 1px solid black;
+    width: 250px;   
+}
+
+#gimg {
+    height: 40px;
+    width: 40px;
+    margin-right: 40px;
+    margin-left: 90px;
+    cursor: pointer;
+}
+#fimg {
+    height: 40px;
+    width: 40px;
+    cursor: pointer;
+}
+#logos{
+    margin-top: 20px;
+    margin-left: 100px;
+}
+.Regbtn{
+    background-color:#009150 ;
+    color: whitesmoke;
+    border: 1px solid black;
+    border: 20px;
+    width: 200px;
+    margin-left: 150px;
+    margin-top: 10px;
+    height: 50px;
+}
+.Regbtn:hover{
+    background-color: #D2122E;
+}
+#logcon{
+    color: #0000FF;
+    cursor: pointer;
+    font-weight: 600;
+}
+#des{
+   margin-left: 250px;
+   font-size: 15px;
+   color:#720e9e ;
+   font-weight: bolder;
+}
+#errormessage{
+    color: red;
+    font-size: 15px;
+    text-align: center;
+}
+#forgotpass{
+    color: black;
+    font-weight: 500;
+    margin-left: 260px;
+}
+#forgotpass:hover{
+    color: blue;
+    font-weight: 500;
+    text-decoration: underline;
+    cursor: pointer;
+}
